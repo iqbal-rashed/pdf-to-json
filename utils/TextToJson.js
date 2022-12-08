@@ -19,7 +19,8 @@ class TextToJson {
             Occupation: this.getText(/occupation\s*(\W+)/i),
             birth_place: this.getText(/Birth Place\s*(\W+)/i),
             birth_registration: this.getText(
-                /Birth Registration (No|.)\s*(\d+)/i
+                /Birth Registration (No|.)\s*(\d+)/i,
+                2
             ),
             date_of_birth: this.getText(/Date of Birth\s(.*?)Birth Place/i),
             blood_group: this.getText(/Blood Group\s(.*?)TIN/i),
@@ -29,9 +30,9 @@ class TextToJson {
             voter_at: this.getText(/Voter At\s(.*)/i),
         };
     }
-    getText(pattern) {
+    getText(pattern, index) {
         const arr = pattern.exec(this.text);
-        const text = Array.isArray(arr) ? arr[1] : arr;
+        const text = Array.isArray(arr) ? arr[index || 1] : arr;
         return text ? text.trim().replace("ু ", "ু") : "";
     }
 

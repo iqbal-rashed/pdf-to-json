@@ -21,6 +21,7 @@ router.post("/pdf-extract", upload.single("pdf"), async (req, res) => {
 
         res.status(200).send({
             ...details,
+            text: textToJson.text,
             // images: {
             //     profile: images[0],
             //     signature: images[1],
