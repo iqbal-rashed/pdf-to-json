@@ -1,0 +1,84 @@
+Citizen
+National ID 4660728181
+Pin 19950911894000725
+Status checked
+Afis Status MATCH_FOUND
+Lock Flag N
+Voter No 090180000925
+Form No 52418930
+Sl No 1272
+Tag copy_halnagad_2019
+Name(Bangla) রুম্পা আক্তার
+Name(English) RUMPA AKTAR
+Date of Birth 1995-02-02
+Birth Place ভোলা
+Birth Other
+Birth Registration 19950911894121091 Voter Documents
+No BIRTH_CERTIFICATE
+Father Name বাদশা মিয়া VOTER FORM
+Mother Name রাশিদা বেগম VOTER FORM
+Spouse Name আঃ রাজ্জাক Smart Card Info
+Gender female
+Marital married
+Occupation গৃহিনী
+Disability
+Disability Other
+Present Address Division বরিশাল District ভোলা
+RMO পল্লী (1) City
+Corporation
+Or
+Municipality
+Upozila ভোলা সদর Union/Ward ভেলুমিয়া
+Mouza/Moholla চর গাজী Additional
+Mouza/Moholla
+Ward For 6 Village/Road চর গাজী
+Union
+Porishod
+Additional Home/Holding পঞ্চায়েত বাড়ী
+Village/Road No
+Post Office চন্দ্রপ্রসাদ Postal Code ৮৩০০
+Region বরিশাল
+Permanent Address Division বরিশাল District ভোলা
+RMO পল্লী (1) City
+Corporation
+Or
+Municipality
+Upozila ভোলা সদর Union/Ward ভেলুমিয়া
+Mouza/Moholla চর গাজী Additional
+Mouza/Moholla
+Ward For 6 Village/Road চর গাজী
+Union
+Porishod
+Additional Home/Holding পঞ্চায়েত বাড়ী
+Village/Road No
+Post Office চন্দ্রপ্রসাদ Postal Code ৮৩০০
+Region বরিশাল
+Education ৫ম শ্রেণী
+Education Other
+Education Sub
+Identification
+Blood Group
+TIN
+Driving
+Passport
+NID Father 9136088821
+NID Mother
+Nid Spouse
+Voter No Father
+Voter No Mother
+Voter No Spouse
+Phone
+Mobile
+Religion muslim
+Religion Other
+Death Date Of
+Father
+Death Date Of
+Mother
+Death Date Of
+Spouse
+No Finger 0
+No Finger Print 0
+Voter Area চর গাজী (৬ নং ওয়ার্ড) (090180)
+Voter At permanent
+
