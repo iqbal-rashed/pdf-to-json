@@ -1,7 +1,7 @@
 class TextToJson {
     constructor(text) {
         this.text = text;
-        this.text = text.replace(/\r\n/g, " ");
+        this.text = text.replace(/[\r\n]/g, " ");
     }
     getDetails() {
         return {

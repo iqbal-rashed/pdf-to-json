@@ -24,7 +24,7 @@ class ExtractPdf {
         this.bin_path = BIN_PATH;
         this.file_path = path.join(__dirname, "../temp", "temp.pdf");
         this.text_file = path.join(__dirname, "../temp", "text.txt");
-        fs.writeFileSync(this.file_path, buffer);
+        fs.writeFileSync(this.file_path, buffer, { encoding: "utf8" });
     }
 
     async extractImages() {
@@ -69,7 +69,7 @@ class ExtractPdf {
             this.text_file,
         ]);
         const text = await fsAsync.readFile(this.text_file, {
-            encoding: "utf-8",
+            encoding: "utf8",
         });
         return text;
     }
